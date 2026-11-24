@@ -1,0 +1,11 @@
+{
+  "name": "Pairly: sock pairing",
+  "short_name": "Pairly",
+  "description": "Photograph the sock pile, get the pairs.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7f9",
+  "theme_color": "#ff5c8a",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
